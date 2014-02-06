@@ -1,0 +1,29 @@
+body{
+	background-color: white;
+	
+}
+
+#content{
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	font-family: georgia;
+}
+
+#main{
+	width: 350px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: georgia;
+}
+
+img {
+	width: 200px;
+	border-style: dashed;
+	border-color: black;
+	border-width: 2px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
