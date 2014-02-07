@@ -1,0 +1,33 @@
+body{
+	margin-left:auto;
+	margin-right: auto;
+	width: 400px;
+	font-family: Georgia;
+}
+
+h2{
+	text-align: center;
+	font-family: helvetica;
+	text-decoration: underline;
+	font-size: 35px;
+	
+}
+
+h3{
+	font-size: 30px;
+}
+
+ul{
+	padding-top: 2px;
+	
+}
+li{
+	font-weight: bold;
+
+}
+p{
+	margin: 5px;
+}
+h4{
+	font-decoration: underline;
+}
