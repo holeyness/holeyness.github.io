@@ -1,19 +1,10 @@
-holeyness.github.io
-===================
+# ianluo.com
+This is my personal repo for my website www.ianluo.com
 
-GitHub Repo for Comp 20
-
-This repo is hosted on Github, hosting a personal portfolio for Ian Luo.
-This website contains a home page, a bio page and a resume page. It is also redirected from http://www.cs.tufts.edu/~yluo01/
-
-Completed:
-Redirection Page
-Home Page
-Bio Page
-Resume Page
-
-TODO:
-None.
-
-Worked alone for this assignment, looked up reference CSS and HTML tags online.
-Hours spent on this assignment: ~2hours
+        _____              _                        _____                
+       |_   _|            | |                      / ____|               
+         | |  __ _ _ __   | |    _   _  ___       | |     ___  _ __ ___  
+         | | / _` | '_ \  | |   | | | |/ _ \      | |    / _ \| '_ ` _ \ 
+        _| || (_| | | | | | |___| |_| | (_) |  _  | |___| (_) | | | | | |
+       |_____\__,_|_| |_| |______\__,_|\___/  (_)  \_____\___/|_| |_| |_|
+                                                                         
