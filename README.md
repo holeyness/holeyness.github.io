@@ -1,5 +1,5 @@
 # ianluo.com
-This is my personal repo for my website www.ianluo.com
+This is my personal repo for my website www.ianluo.com.
 
         _____              _                        _____                
        |_   _|            | |                      / ____|               
